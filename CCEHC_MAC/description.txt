@@ -1,0 +1,14 @@
+Software Name: CCEHC 
+
+Version: MAX-SAT Evaluation 2015
+
+Authors: Chuan Luo [1], Shaowei Cai [2], Kaile Su [3], Wenxuan Huang [4]
+
+Institutes: [1] Key Laboratory of High Confidence Software Technologies of Ministry of Education, Peking University, Beijing, China
+            [2] State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China
+            [3] Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia
+            [4] Department of Material Science and Engineering, Massachusetts Institute of Technology, MA, USA
+
+
+Note: The operating system for compiling and running the CCEHC solver should be 64-bit GNU/Linux.
+            

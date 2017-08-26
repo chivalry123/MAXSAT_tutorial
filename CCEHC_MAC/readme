@@ -1,0 +1,7 @@
+Note: The operating system for compiling and running the CCEHC solver should be 64-bit GNU/Linux.
+
+For compiling:
+make
+
+For running:
+./CCEHC -inst <instance> -seed <seed> -t <cutoff_time>
