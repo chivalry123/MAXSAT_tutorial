@@ -1,5 +1,5 @@
 CFLAGS = -O3 -m64
-TARGET = CCECH_finite
+TARGET = CCEHC_finite
 
 all: ${TARGET} clean
 
