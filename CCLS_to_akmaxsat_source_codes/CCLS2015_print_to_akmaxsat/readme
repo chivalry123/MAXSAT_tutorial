@@ -1,0 +1,10 @@
+Corresponding Paper:
+Chuan Luo, Shaowei Cai, Wei Wu, Zhong Jie, Kaile Su. CCLS: An Efficient Local Search Algorithm for Weighted Maximum Satisfiability. IEEE Transactions on Computers, DOI: 10.1109/TC.2014.2346196.
+
+Note: The operating system for compiling and running the CCLS2015 solver should be 64-bit GNU/Linux.
+
+For compiling:
+make
+
+For running:
+./CCLS2015 <instance>
