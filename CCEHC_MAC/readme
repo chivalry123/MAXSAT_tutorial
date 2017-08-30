@@ -4,4 +4,4 @@ For compiling:
 make
 
 For running:
-./CCEHC -inst <instance> -seed <seed> -t <cutoff_time>
+./CCEHC_finite -inst <instance> -seed <seed> -t <cutoff_time>
